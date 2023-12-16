@@ -38,7 +38,7 @@ This project focuses on leveraging a Transformer model for the transliteration t
   
 - **Homophones Weighting (HW):**
   - Introduced to emphasize predictions corresponding to homophones, enhancing the model's performance in capturing homophonic relationships.
-![Model Architecture](url)
+![Model Architecture]([url](https://github.com/IanQuan/J2P-Translator/blob/main/Model%20Architecture.png))
 ## Performance Evaluation
 
 - **Hyperparameter Tuning:**
