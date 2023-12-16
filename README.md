@@ -41,6 +41,7 @@ This project focuses on leveraging a Transformer model for the transliteration t
 <div style="text-align:center">
   <img src="https://github.com/IanQuan/J2P-Translator/blob/main/Model%20Architecture.png?raw=true" alt="Alt Text" width="400"/>
 </div>
+
 ## Performance Evaluation
 
 - **Hyperparameter Tuning:**
